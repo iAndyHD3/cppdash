@@ -13,7 +13,7 @@ set(package_name "cppdash")
 project(
   cppdash
   VERSION 2.1.2
-  DESCRIPTION "The most over-engineered C++ assertion library"
+  DESCRIPTION "Geometry Dash Api wrapper for C++"
   LANGUAGES CXX
 )
 
